@@ -23,9 +23,14 @@
   },
   "homepage": "https://github.com/fzheng/nats#readme",
   "dependencies": {
+    "config": "^2.0.1",
     "hemera-joi": "^5.3.0",
+    "lodash": "^4.17.11",
     "nats": "^1.0.0",
-    "nats-hemera": "^5.8.5"
+    "nats-hemera": "^5.8.5",
+    "passport-saml": "^0.35.0",
+    "pem": "^1.13.2",
+    "query-string": "^6.2.0"
   },
   "devDependencies": {
     "eslint": "^5.0.0",
