@@ -30,7 +30,8 @@
     "nats-hemera": "^5.8.5",
     "passport-saml": "^0.35.0",
     "pem": "^1.13.2",
-    "query-string": "^6.2.0"
+    "query-string": "^6.2.0",
+    "querystring": "^0.2.0"
   },
   "devDependencies": {
     "eslint": "^5.0.0",
